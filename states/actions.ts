@@ -1,0 +1,11 @@
+const actions = {
+  GET_DATA: "GET_DATA",
+  GET_DATA_SUCCESS: "GET_DATA_SUCCESS",
+  GET_DATA_FAIL: "GET_DATA_FAIL",
+  LOGIN: "LOGIN",
+  LOGIN_SUCCESS: "LOGIN_SUCCESS",
+  LOGIN_FAIL: "LOGIN_FAIL",
+  LOGOUT: "LOGOOT",
+};
+
+export default actions
