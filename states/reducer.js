@@ -1,5 +1,5 @@
 import actions from "./actions";
-const reducer = (state, action: string) => {
+const reducer = (state, action) => {
   const {type, payload} = action
 
   // auth
