@@ -2,7 +2,7 @@ import { createContext, useReducer } from "react";
 import actions from "./actions";
 import reducer from "./reducer";
 
-export const AppContext = createContexti();
+export const AppContext = createContext();
 
 const initialState = {
   data: [],
